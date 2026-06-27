@@ -1,0 +1,14 @@
+{
+  "name": "mastering-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "num": "node index.js",
+    "test": "node text.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
